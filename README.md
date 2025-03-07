@@ -48,3 +48,10 @@ C:\path\to\vcpkg\installed\x64-windows\lib
 ```
 libcurl.lib
 ```
+## Utilizando
+
+* Abra o seu Prompt de Comando e digite o seguinte comando:
+  ```
+  node server.js
+  ```
+* Depois execute o programa no Visual Studio.
