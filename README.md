@@ -51,7 +51,8 @@ libcurl.lib
 ## Utilizando
 
 * Abra o seu Prompt de Comando e digite o seguinte comando:
-  ```
-  node server.js
-  ```
+ 
+```
+node server.js
+```
 * Depois execute o programa no Visual Studio.
